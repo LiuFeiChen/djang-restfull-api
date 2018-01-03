@@ -14,3 +14,5 @@
 
 ## 依赖安装
 * `pip3 install mysqlclient`
+
+运行参照https://github.com/LiuFeiChen/django-rest-framework
